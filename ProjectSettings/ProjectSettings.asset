@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: 2672a77cd148c4014ae2d926beddaa10
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -839,10 +839,10 @@ PlayerSettings:
     Purchasing: 0
     UNet: 0
     Unity_Ads: 0
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: de5d42d5-9783-46a6-9f5b-4279ce6a8b17
-  projectName: 
+  projectName: Adventure_Game_6
   organizationId: beccannlittle
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
