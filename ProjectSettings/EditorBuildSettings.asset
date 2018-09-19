@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/SecurityRoom.unity
     guid: fa8464330437a6c439e767c377bbee1d
+  - enabled: 1
+    path: Assets/_Scenes/DioramaMarket.unity
+    guid: 0570db3e95b83704c9b232078c1a96a6
   m_configObjects: {}
